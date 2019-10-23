@@ -24,10 +24,6 @@ variants = [
     ["platform-linux"]
 ]
 
-tools = [
-    ""
-]
-
 build_system = "cmake"
 
 with scope("config") as config:

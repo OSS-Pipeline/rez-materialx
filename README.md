@@ -1,3 +1,4 @@
-# rez-materialx
+rez-materialx
+===
 
 Rez build configuration for MaterialX.
